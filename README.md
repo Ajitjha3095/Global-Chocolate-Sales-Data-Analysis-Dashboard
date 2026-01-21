@@ -74,9 +74,13 @@ Looker	Advanced Analytics Exploration
 Tableau	Interactive Visualization Views
 DAX/SQL	Query & Calculations
 Data Source	Global Chocolate Sales Dataset
-
+Tableau 📊 : https://public.tableau.com/app/profile/ajit.jha/viz/GlobalChocolateSalesDataAnalysisDashboard/Dashboard1?publish=yes
 <img width="831" height="487" alt="image" src="https://github.com/user-attachments/assets/0b0e4d8a-697a-4bca-ab1f-6369c776e00a" />
+
+Looker : https://lookerstudio.google.com/reporting/3383922b-2f98-452e-bf55-780e5220fe8c/page/N88kF
 <img width="824" height="510" alt="image" src="https://github.com/user-attachments/assets/a21e0d86-3f23-47f3-aefc-af07c88ca1ff" />
+
+Power BI ⚡
 <img width="732" height="452" alt="image" src="https://github.com/user-attachments/assets/6db261ad-cd7b-4c26-a71c-ed2cb9e29f0e" />
 
 
