@@ -5,6 +5,13 @@ Welcome to the Global Chocolate Sales Data Analysis Dashboard!
 This dashboard provides a comprehensive and interactive view of global chocolate sales performance, enabling insights into sales trends, product performance, geographic distribution, and business outcomes.
 Built using Power BI, Looker, and Tableau, it highlights key performance indicators and visualizations designed for sales operations, business stakeholders, and strategic decision-making.
 ________________________________________
+📥 Dataset Source 
+The data used in this project was sourced from a **publicly available dataset on Kaggle**, titled **Chocolate Sales Data**.  
+This dataset contains transactional sales records for chocolate products sold across different countries, along with details such as sales amount, boxes shipped, salesperson, and times of sale. It’s ideal for building dashboards and performing trend analysis.  
+
+data link: https://www.kaggle.com/datasets/atharvasoundankar/chocolate-sales
+
+________________________________________
 🚀 Key Objectives
 1.	Track overall sales performance across markets and time periods.
 2.	Identify top performing products and regions.
@@ -59,13 +66,17 @@ This dashboard helps business owners and decision-makers:
 ✅ Measure efficiency of sales resources
 ✅ Support strategy planning and inventory forecasting
 ________________________________________
-📁 How to Use This README
-Use this script in your:
-✔ Project README on GitHub
-✔ Presentation introduction
-✔ Slides narrative
-✔ Stakeholder walkthrough
-Each section is designed to clearly communicate intent, metrics, and insights.
+🚀 Usage Instructions
+
+Load the data into your BI tool (Looker / Power BI / Tableau) using the provided dataset.
+
+Navigate through the dashboard pages to view different visualizations.
+
+Use the filter panel to slice the data by Airconditioning,Basement, Prefarea, Furnishingstatus, Guestroom, Mainroad, Hotwaterheating, Bedrooms, Bathrooms as needed.
+
+Hover over data points or charts for detailed tooltips / details.
+
+(Optional) Export reports or charts as PDF / image / data (depending on tool) for presentation or further analysis.
 ________________________________________
 🛠️ Technical Stack
 Platform	Purpose
